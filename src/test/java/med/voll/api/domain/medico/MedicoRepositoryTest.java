@@ -23,7 +23,7 @@ import static org.junit.jupiter.api.Assertions.*;
 class MedicoRepositoryTest {
     @Autowired
     private MedicoRepository medicoRepository;
-
+//gta v ssaffaerae
     @Test
     @DisplayName("bederia retornar nulo cuando el medico se encuentre en consulta con otro paciente en ese horario")
     void seleccionarMedicoConEspecialidadEnFechaEscenario() {
